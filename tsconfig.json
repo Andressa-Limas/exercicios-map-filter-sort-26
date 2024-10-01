@@ -6,5 +6,9 @@
       "esModuleInterop": true,
       "skipLibCheck": true,
       "forceConsistentCasingInFileNames": true
-    }
+    },
+    "include": [
+      "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida.ts" // ajuste conforme necessário
+    ]
+  
   }
