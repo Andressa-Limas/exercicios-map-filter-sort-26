@@ -8,7 +8,6 @@
       "forceConsistentCasingInFileNames": true
     },
     "include": [
-      "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida.ts" // ajuste conforme necessário
+      "C:/Users/camil/Documents/exercicios-map-filter-sort-26/listaPreConstruida.ts" // ajuste conforme necessário
     ]
-  
   }

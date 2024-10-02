@@ -7,7 +7,7 @@
 
 // 1) Fazer uma função que retorne um array de todas as médias
 
-import { turma } from "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida";
+import { turma } from "C:/Users/camil/Documents/exercicios-map-filter-sort-26/listaPreConstruida";
 
 function retornarMedias() {
     // Cria um array para armazenar as médias
