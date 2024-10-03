@@ -1,5 +1,4 @@
-import { turma } from "C:/Users/camil/Documents/exercicios-map-filter-sort-26/listaPreConstruida";
-
+import { turma } from "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida";
 // Função que retorna o nome da aluna com a maior média
 function retornarMaiorMedia() {
     // Usamos o método reduce para encontrar a aluna com a maior média

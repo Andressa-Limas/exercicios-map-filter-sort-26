@@ -1,5 +1,4 @@
-import { turma } from "C:/Users/camil/Documents/exercicios-map-filter-sort-26/listaPreConstruida";
-
+import { turma } from "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida";
 // Função que retorna a média total da turma
 function retornarMediaTurma() {
     let somaMedias = 0;

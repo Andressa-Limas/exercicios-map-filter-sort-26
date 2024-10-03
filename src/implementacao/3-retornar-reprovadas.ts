@@ -1,5 +1,4 @@
-import { turma } from "C:/Users/camil/Documents/exercicios-map-filter-sort-26/listaPreConstruida";
-
+import { turma } from "C:/Users/andre/exercicios-map-filter-sort-26/listaPreConstruida";
 //3) Fazer uma função que retorne um array de nome das reprovadas
 // para estar reprovada a aluna tem que ter uma nota menor que 7
 
